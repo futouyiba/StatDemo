@@ -1,0 +1,59 @@
+鱼种（种类+稀有度/大小）,种类,稀有度/大小,最小长度 (cm),最大长度 (cm),最小重量 (kg),最大重量 (kg)
+Largemouth_Bass_Young,Largemouth Bass,Young,5,25,0.00189,0.2818
+Largemouth_Bass_Common,Largemouth Bass,Common,25,40,0.2818,0.6619
+Largemouth_Bass_Trophy,Largemouth Bass,Trophy,40,50,0.6619,1.0744
+Largemouth_Bass_Unique,Largemouth Bass,Unique,50,73.5,1.0744,2.0141
+Spotted_Bass_Young,Spotted Bass,Young,5,17,0.00125,0.0490
+Spotted_Bass_Common,Spotted Bass,Common,17,30,0.0490,0.2700
+Spotted_Bass_Trophy,Spotted Bass,Trophy,30,40,0.2700,0.6400
+Spotted_Bass_Unique,Spotted Bass,Unique,40,49,0.6400,1.1760
+Yellow_Perch_Young,Yellow Perch,Young,5,25,0.00143,0.2551
+Yellow_Perch_Common,Yellow Perch,Common,25,40,0.2551,0.6017
+Yellow_Perch_Trophy,Yellow Perch,Trophy,40,50,0.6017,1.0030
+Yellow_Perch_Unique,Yellow Perch,Unique,50,73.5,1.0030,2.0336
+Rock_Bass_Young,Rock Bass,Young,5,10,0.00193,0.01549
+Rock_Bass_Common,Rock Bass,Common,10,20,0.01549,0.12397
+Rock_Bass_Trophy,Rock Bass,Trophy,25,35,0.24248,0.51207
+Rock_Bass_Unique,Rock Bass,Unique,35,43,0.51207,0.85571
+Walleye_Young,Walleye,Young,5,30,0.00049,0.3879
+Walleye_Common,Walleye,Common,30,50,0.3879,1.1774
+Walleye_Trophy,Walleye,Trophy,50,80,1.1774,3.3374
+Walleye_Unique,Walleye,Unique,80,107,3.3374,7.1362
+Sauger_Young,Sauger,Young,5,17,0.00054,0.05018
+Sauger_Common,Sauger,Common,17,30,0.05018,0.3465
+Sauger_Trophy,Sauger,Trophy,30,40,0.3465,0.7641
+Sauger_Unique,Sauger,Unique,40,49,0.7641,1.3285
+Smallmouth_Bass_Young,Smallmouth Bass,Young,5,25,0.00322,0.3218
+Smallmouth_Bass_Common,Smallmouth Bass,Common,25,40,0.3218,0.7031
+Smallmouth_Bass_Trophy,Smallmouth Bass,Trophy,40,50,0.7031,1.1747
+Smallmouth_Bass_Unique,Smallmouth Bass,Unique,50,60,1.1747,1.8173
+Striped_Bass_Young,Striped Bass,Young,5,30,0.00066,0.4551
+Striped_Bass_Common,Striped Bass,Common,30,70,0.4551,3.7490
+Striped_Bass_Trophy,Striped Bass,Trophy,70,90,3.7490,7.1995
+Striped_Bass_Unique,Striped Bass,Unique,90,110,7.1995,12.4151
+Redear_Sunfish_Young,Redear Sunfish,Young,5,20,0.00104,0.1302
+Redear_Sunfish_Common,Redear Sunfish,Common,20,30,0.1302,0.3652
+Redear_Sunfish_Trophy,Redear Sunfish,Trophy,30,35,0.3652,0.5519
+Buffalofish_Common,Bigmouth Buffalo,Common,30,50,0.5110,2.8656
+Buffalofish_Trophy,Bigmouth Buffalo,Trophy,50,70,2.8656,6.2263
+Bowfin_Young,Bowfin,Young,5,30,0.00068,0.4826
+Bowfin_Common,Bowfin,Common,30,70,0.4826,4.7804
+Bowfin_Trophy,Bowfin,Trophy,70,90,4.7804,9.5256
+Channel_Catfish_Common,Channel Catfish,Common,5,40,0.00080,1.0543
+Channel_Catfish_Young,Channel Catfish,Young,40,60,1.0543,2.7712
+Channel_Catfish_Trophy,Channel Catfish,Trophy,60,80,2.7712,5.3611
+Channel_Catfish_Unique,Channel Catfish,Unique,80,110,5.3611,10.9271
+Black_Crappie_Common,Black Crappie,Common,10,20,0.0209,0.1673
+Black_Crappie_Trophy,Black Crappie,Trophy,20,35,0.1673,0.5981
+Pumpkinseed_Sunfish_Young,Pumpkinseed Sunfish,Young,5,15,0.00193,0.02194
+Pumpkinseed_Sunfish_Common,Pumpkinseed Sunfish,Common,15,30,0.02194,0.2009
+Green_Sunfish_Trophy,Green Sunfish,Trophy,15,25,0.0490,0.1646
+Green_Sunfish_Unique,Green Sunfish,Unique,25,35,0.1646,0.3918
+Muskellunge_Young,Muskellunge,Young,5,60,0.00013,2.9340
+Muskellunge_Common,Muskellunge,Common,60,120,2.9340,18.2730
+Tench_Common,Tench,Common,12,40,0.00125,0.3480
+Tench_Trophy,Tench,Trophy,40,50,0.3480,0.5437
+Tench_Unique,Tench,Unique,50,66,0.5437,0.9548
+Freshwater_Drum_Young,Freshwater Drum,Young,5,20,0.00111,0.1087
+Freshwater_Drum_Common,Freshwater Drum,Common,20,40,0.1087,0.8550
+Freshwater_Drum_Trophy,Freshwater Drum,Trophy,40,55,0.8550,1.9141
