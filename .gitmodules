@@ -1,0 +1,3 @@
+[submodule "configs"]
+	path = configs
+	url = http://git.keepfancy.xyz/common/configs.git
