@@ -1,0 +1,15 @@
+name,[水下结构体]开放水域,[水下结构体]水草,[水下结构体]石头,[水下结构体]沉木,[水下结构体]桥墩
+struct_bowfin,1.0,1.0,0.5,0.8,0.9
+struct_buffalo,0.6,0.7,0.6,0.8,0.9
+struct_catfish,0.7,0.5,0.8,1.0,0.9
+struct_drum,0.6,0.5,0.9,0.7,1.0
+struct_largemouth_bass,0.5,1.0,0.6,0.9,0.8
+struct_list_bass,1.0,1.0,0.9,0.7,0.8
+struct_list_sunfish,0.6,1.0,0.5,0.9,0.6
+struct_list_walleye,0.7,0.5,0.9,0.8,1.0
+struct_muskellunge,1.0,0.9,0.5,0.6,0.7
+struct_smallmouth_bass,0.7,0.6,1.0,0.5,0.9
+struct_spotted_bass,0.5,0.8,0.9,0.6,1.0
+struct_tench,0.5,1.0,0.9,0.6,0.7
+struct_yellow_perch,1.0,1.0,0.9,0.6,0.8
+structure_all_1,1.0,1.0,1.0,1.0,1.0
